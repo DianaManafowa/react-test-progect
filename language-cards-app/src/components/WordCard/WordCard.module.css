@@ -1,0 +1,30 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 0.5rem;
+  width: 200px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.word {
+  color: #282c34;
+  margin-top: 0;
+}
+
+.transcription {
+  color: #666;
+  font-style: italic;
+}
+
+.translation {
+  font-weight: bold;
+}
+
+.category {
+  display: inline-block;
+  background-color: #f0f0f0;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
